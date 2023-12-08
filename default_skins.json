@@ -1,0 +1,64 @@
+{
+  "AuthorName": "Thetis",
+  "AuthorCallsign": "",
+  "AuthorNickname": "Thetis",
+  "SkinsHomepageUrl": "https://github.com/ramdor/Thetis/releases",
+  "DonateUrl": "",
+  "ThetisSkins": [
+    {
+      "SkinName": "Default Meters",
+      "SkinUrl": "https://www.dropbox.com/scl/fi/gx657fzutkcrun5eaxniw/DefaultMeters.zip?rlkey=46j8gsgt55ytx2gudtecemg8n&dl=1",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.7.0",
+      "ThumbnailUrl": "https://grange-lane.co.uk/thetis_skins/meter-defaults.jpg",
+      "SkinHomepageUrl": "",
+      "DateReleased": "1/1/20",
+      "Overview": "The default meter skins that came with the Thetis install.",
+      "IsMeterSkin": true
+    },
+    {
+      "SkinName": "IK3VIG Special",
+      "SkinUrl": "https://www.dropbox.com/scl/fi/m7a5rmfdr3eltce8m81h0/IK3VIG-Special.zip?rlkey=744gs4rcpt2aor7fq64611k6w&dl=1",
+      "SkinVersion": "1.1",
+      "FromThetisVersion": "2.7.0",
+      "ThumbnailUrl": "https://grange-lane.co.uk/thetis_skins/ik3vig.jpg",
+      "SkinHomepageUrl": "https://www.qrz.com/db/IK3VIG",
+      "DateReleased": "1/1/20",
+      "Overview": "One of the skins included with the Thetis installer.",
+      "IsMeterSkin": false
+    },
+    {
+      "SkinName": "OpenHPSDR Gray",
+      "SkinUrl": "https://www.dropbox.com/scl/fi/615x1g2wwuyk6dt7uobm8/OpenHPSDR-Gray.zip?rlkey=2dtnyzm6euq3cdcj468kv0t1c&dl=1",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.7.0",
+      "ThumbnailUrl": "https://grange-lane.co.uk/thetis_skins/openhpsdr-gray.jpg",
+      "SkinHomepageUrl": "",
+      "DateReleased": "1/1/20",
+      "Overview": "One of the skins included with the Thetis installer.",
+      "IsMeterSkin": false
+    },
+    {
+      "SkinName": "W1AEX Dark Metal",
+      "SkinUrl": "https://www.dropbox.com/scl/fi/vzw6o1urzlyzgt0ixlg63/W1AEX_Dark_Metal.zip?rlkey=cvmyxj7nag73hp3cv8pjv95dr&dl=1",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.7.0",
+      "ThumbnailUrl": "https://grange-lane.co.uk/thetis_skins/w1aex_dark_metal.jpg",
+      "SkinHomepageUrl": "http://www.w1aex.com/hpsdr/hpsdr.html",
+      "DateReleased": "1/1/20",
+      "Overview": "One of the skins included with the Thetis installer.",
+      "IsMeterSkin": false
+    },
+    {
+      "SkinName": "W1AEX High Visual",
+      "SkinUrl": "https://www.dropbox.com/scl/fi/v7emackj0smg6t8b3pcd6/W1AEX_High_Visual.zip?rlkey=15c950veqtu6q8jiz6p39fy3q&dl=1",
+      "SkinVersion": "1.0",
+      "FromThetisVersion": "2.7.0",
+      "ThumbnailUrl": "https://grange-lane.co.uk/thetis_skins/w1aex_high_visual.jpg",
+      "SkinHomepageUrl": "http://www.w1aex.com/hpsdr/hpsdr.html",
+      "DateReleased": "1/1/20",
+      "Overview": "One of the skins included with the Thetis installer.",
+      "IsMeterSkin": false
+    }
+  ]
+}
