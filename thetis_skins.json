@@ -11,7 +11,7 @@
       "SkinVersion": "1.0",
       "FromThetisVersion": "2.7.0",
       "ThumbnailUrl": "https://github.com/ramdor/ThetisSkins/blob/main/meter-defaults.jpg?raw=true",
-      "SkinHomepageUrl": "",
+      "SkinHomepageUrl": "https://github.com/ramdor/ThetisSkins",
       "DateReleased": "1/1/20",
       "Overview": "The default meter skins that came with the Thetis install.",
       "IsMeterSkin": true
