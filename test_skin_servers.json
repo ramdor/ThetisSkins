@@ -1,9 +1,0 @@
-{
-  "SkinServers": [
-    {
-      "SkinServerUrl": "https://raw.githubusercontent.com/ramdor/ThetisSkins/main/thetis_skins.json",
-      "Description": "Thetis default skins",
-      "BypassRootFolderCheck": false
-    }
-  ]
-}
