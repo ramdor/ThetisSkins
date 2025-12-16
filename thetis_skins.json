@@ -19,11 +19,11 @@
     {
       "SkinName": "IK3VIG Special",
       "SkinUrl": "https://github.com/ramdor/ThetisSkins/raw/main/IK3VIG%20Special.zip",
-      "SkinVersion": "1.1",
+      "SkinVersion": "1.2",
       "FromThetisVersion": "2.7.0",
       "ThumbnailUrl": "https://github.com/ramdor/ThetisSkins/blob/main/ik3vig.jpg?raw=true",
       "SkinHomepageUrl": "https://www.qrz.com/db/IK3VIG",
-      "DateReleased": "1/1/20",
+      "DateReleased": "16/12/20",
       "Overview": "One of the skins included with the Thetis installer.",
       "IsMeterSkin": false
     },
